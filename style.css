@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f30b93;
+}
+
+header {
+    background-color: #cf5aac;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.about, .services, .testimonials, .contact {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(145, 10, 104, 0.479);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(248, 6, 6, 0.1);
+}
+
+.about img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: #e412a5;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
